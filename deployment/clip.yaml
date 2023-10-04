@@ -32,7 +32,7 @@ spec:
         app: clip
     ports:
         - protocol: TCP
-          port: 80
+          port: 7777
           targetPort: 80
 
 ---
@@ -52,4 +52,4 @@ spec:
                         service:
                             name: clip-service
                             port:
-                                number: 80
+                                number: 7777
