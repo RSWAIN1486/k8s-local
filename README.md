@@ -105,4 +105,5 @@ kubectl get ingress clip-ingress
 
 ![image](https://github.com/RSWAIN1486/k8s-local/assets/48782471/3ce9cdb8-4b23-4acb-ad18-ccce60da87a2)
 
-
+# Logs
+[Deployment Logs](https://github.com/RSWAIN1486/k8s-local/blob/main/logs.md)
