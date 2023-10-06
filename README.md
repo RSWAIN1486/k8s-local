@@ -93,6 +93,12 @@ kubectl get ingress clip-ingress
 
 ## Open the FastAPI Swagger docs and tryout the API
 
+### Input image 
+![image](https://github.com/RSWAIN1486/k8s-local/assets/48782471/68d51b21-28c0-4819-a4c5-a296f048def5)
+
+### Input text
+a cat, a dog, a cat and a dog
+
 ![image](https://github.com/RSWAIN1486/k8s-local/assets/48782471/9a8f8bb5-95e7-4a34-981b-c0614683f877)
 
 # Kubernetes Dashboard
